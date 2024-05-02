@@ -1,0 +1,11 @@
+.div-cadastro{
+    width: min-content;
+    padding: 2rem;
+    background-color: slategrey;
+}
+
+.div-inputs{
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+}
